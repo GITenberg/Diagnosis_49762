@@ -1,10 +1,16 @@
 _repo: Diagnosis_49762
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49762-h/images/cover.jpg
 creator:
   author:
     agent_name: Palmer, R. A.
     gutenberg_agent_id: '45530'
     url: http://www.gutenberg.org/2009/agents/45530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49762#Diagnosis
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-08-23'
 gutenberg_type: Text
